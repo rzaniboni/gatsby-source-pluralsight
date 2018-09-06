@@ -1,0 +1,33 @@
+{
+  "name": "gatsby-source-pluralsight",
+  "version": "1.0.0",
+  "description": "A Gatsby source plugin for pulling data from your Pluralsight profile page.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "test": "standard"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-source",
+    "pluralsight",
+    "score"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovhemert/gatsby-source-pluralsight.git"
+  },
+  "author": "Osmond van Hemert <osmond@vanhemert.nu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ovhemert/gatsby-source-pluralsight/issues"
+  },
+  "homepage": "https://github.com/ovhemert/gatsby-source-pluralsight#readme",
+  "dependencies": {
+    "got": "^9.2.0"
+  },
+  "devDependencies": {
+    "standard": "^12.0.0"
+  }
+}
