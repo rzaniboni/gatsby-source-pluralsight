@@ -46,7 +46,7 @@ If your project successfully created the nodes. You should be able to query them
 
 ### Completed Courses
 
-```
+```javascript
 {
   allPluralsightCourse {
     edges {
@@ -71,7 +71,7 @@ If your project successfully created the nodes. You should be able to query them
 
 ### Skills
 
-```
+```javascript
 {
   allPluralsightSkill {
     edges {
