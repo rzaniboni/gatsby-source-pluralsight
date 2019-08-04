@@ -22,7 +22,7 @@ exports.sourceNodes = async ({ actions, createNodeId }, pluginOptions) => {
   }
 
   const userHandle = await ps.getUserHandle(options.username)
-  let nodes = []
+  const nodes = []
 
   // skills
   const skills = await ps.getProfileSkills(userHandle)
