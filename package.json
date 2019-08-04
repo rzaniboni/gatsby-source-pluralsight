@@ -25,9 +25,9 @@
   },
   "homepage": "https://github.com/ovhemert/gatsby-source-pluralsight#readme",
   "dependencies": {
-    "got": "^9.2.0"
+    "got": "^9.6.0"
   },
   "devDependencies": {
-    "standard": "^12.0.0"
+    "standard": "^13.1.0"
   }
 }
