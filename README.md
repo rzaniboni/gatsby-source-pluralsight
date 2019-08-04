@@ -3,6 +3,7 @@
 [![Travis](https://img.shields.io/travis/com/ovhemert/gatsby-source-pluralsight.svg?branch=master&logo=travis)](https://travis-ci.com/ovhemert/gatsby-source-pluralsight)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5d55562b469f4d1086ac348a9986d203)](https://www.codacy.com/app/ovhemert/gatsby-source-pluralsight?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ovhemert/gatsby-source-pluralsight&amp;utm_campaign=Badge_Grade)
 [![Known Vulnerabilities](https://snyk.io/test/npm/gatsby-source-pluralsight/badge.svg)](https://snyk.io/test/npm/gatsby-source-pluralsight)
+[![Coverage Status](https://coveralls.io/repos/github/ovhemert/gatsby-source-pluralsight/badge.svg)](https://coveralls.io/github/ovhemert/gatsby-source-pluralsight)
 [![Greenkeeper badge](https://badges.greenkeeper.io/ovhemert/gatsby-source-pluralsight.svg)](https://greenkeeper.io/)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 
