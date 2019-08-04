@@ -1,7 +1,6 @@
 # gatsby-source-pluralsight
 
 [![Travis](https://img.shields.io/travis/com/ovhemert/gatsby-source-pluralsight.svg?branch=master&logo=travis)](https://travis-ci.com/ovhemert/gatsby-source-pluralsight)
-[![AppVeyor](https://img.shields.io/appveyor/ci/ovhemert/gatsby-source-pluralsight.svg?logo=appveyor)](https://ci.appveyor.com/project/ovhemert/gatsby-source-pluralsight)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5d55562b469f4d1086ac348a9986d203)](https://www.codacy.com/app/ovhemert/gatsby-source-pluralsight?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ovhemert/gatsby-source-pluralsight&amp;utm_campaign=Badge_Grade)
 [![Known Vulnerabilities](https://snyk.io/test/npm/gatsby-source-pluralsight/badge.svg)](https://snyk.io/test/npm/gatsby-source-pluralsight)
 [![Greenkeeper badge](https://badges.greenkeeper.io/ovhemert/gatsby-source-pluralsight.svg)](https://greenkeeper.io/)
