@@ -16,14 +16,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ovhemert/gatsby-source-pluralsight.git"
+    "url": "git+https://github.com/rzaniboni/gatsby-source-pluralsight.git"
   },
-  "author": "Osmond van Hemert <hello@ovhemert.dev> (https://ovhemert.dev)",
+  "author": "zaniboni@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ovhemert/gatsby-source-pluralsight/issues"
+    "url": "https://github.com/rzaniboni/gatsby-source-pluralsight/issues"
   },
-  "homepage": "https://github.com/ovhemert/gatsby-source-pluralsight#readme",
+  "homepage": "https://github.com/rzaniboni/gatsby-source-pluralsight#readme",
   "dependencies": {
     "got": "^9.6.0"
   },
